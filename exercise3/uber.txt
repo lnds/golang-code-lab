@@ -1,0 +1,18 @@
+reset
+driver 1
+forward 10
+forward 20
+left
+rider 2
+forward 30
+right
+right
+rider 0
+forward 10
+left
+rider 1
+forward 20
+left
+forward 10
+rider 0
+driver 0
